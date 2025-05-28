@@ -1,0 +1,17 @@
+{
+    "name": "mycompany/ecommerce",
+    "description": "my first ecommerce project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "omar"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
